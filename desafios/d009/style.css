@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(27,30,35);
+    width: 560px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    text-align:center;
+    color:white;
+}
