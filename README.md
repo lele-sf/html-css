@@ -14,6 +14,6 @@ Repositório para organização de arquivos e criação de projetos relacionados
 
 ## Links Úteis
 
-Para ter acesso ao conteúdo do curso, acesse [**Curso em Vídeo**](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
+Para ter acesso ao conteúdo do curso, acesse o canal [**Curso em Vídeo**](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)
 
-Para ter acesso ao material, acesse o [**Github**](https://github.com/gustavoguanabara/html-css) 
+Para ter acesso ao material, acesse o [**Github**](https://github.com/gustavoguanabara/html-css) do Gustavo Guanabara
