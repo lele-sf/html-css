@@ -32,3 +32,14 @@
 
 **DESAFIO 010**
 -- [Projeto Android](https://lele-sf.github.io/html-css-curso-em-video/desafios/d010/)
+
+## Módulo III
+
+**DESAFIO 011**
+-- [Desafio Astronauta](https://lele-sf.github.io/html-css-curso-em-video/desafios/d011/)
+
+**DESAFIO 012**
+-- [Desafio Cordel](https://lele-sf.github.io/html-css-curso-em-video/desafios/d012/)
+
+**DESAFIO 014**
+-- [Desafio Tabela](https://lele-sf.github.io/html-css-curso-em-video/desafios/d014/)
