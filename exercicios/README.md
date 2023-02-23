@@ -67,5 +67,5 @@
 **EXERCÍCIO 020**
 -- Identificação em CSS
 * [Hover](https://lele-sf.github.io/html-css-curso-em-video/exercicios/ex020/hover.html)
-* [Links](https://lele-sf.github.io/html-css-curso-em-video/exercicios/ex020/links.html)
+* [Links](https://lele-sf.github.io/html-css-curso-em-video/exercicios/ex020/links/links.html)
 * [Pseudo-classes](https://lele-sf.github.io/html-css-curso-em-video/exercicios/ex020/pseudoclasse.html)

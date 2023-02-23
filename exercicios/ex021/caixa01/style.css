@@ -1,0 +1,33 @@
+h1 { /* box-level */
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    /*shorthand:
+        border: 10px solid darkblue; 
+        padding: 10px 10px 10px 10px;
+        margin: 20px 20px 40px 20px;
+        outline: 5px dashed blueviolet;
+    */
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkblue;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: blueviolet;
+}
+a { /* inline-level */
+    border: 10px solid red;
+
+    padding: 10px;
+}
