@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@media screen and (min-width: 768px) {
+    span#burguer {
+        display: none;
+    }
+    menu#listaLinks {
+        display: block;
+    }
+    .lista-links > .lista-itens > .itens {
+        display: inline-block;
+        text-align: center;
+        padding: 10px;
+        background-color: rgb(87, 87, 87);
+        border-top: 2px solid gray;
+    }
+    main {
+        width: 768px;
+    }
+}
